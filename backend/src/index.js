@@ -13,7 +13,7 @@ import path from "path";
 dotenv.config()
 
 const PORT = process.env.PORT
-const _dirname = path.resolve();
+const __dirname = path.resolve();
 
 app.use(express.json());
 app.use(cookieParse());
