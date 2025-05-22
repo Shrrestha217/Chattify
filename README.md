@@ -21,3 +21,7 @@ A modern full-stack chat application built with the **MERN** stack and **Socket.
 - Global state handled with **Zustand**
 - Error handling on both **client** and **server**
 - Fully deployed and production-ready
+
+## Application Images
+- ![image](https://github.com/user-attachments/assets/f6e8cb8a-2454-4b87-a0a1-f42ca9de2800)
+
